@@ -92,9 +92,7 @@ output file:
 - /result/final-3fold-tx2a-mamba-fix.submit.csv
 ```
 
-|                   | public lb | private lb |
-|-------------------|-----------|-----|
-| final-3fold-tx2a-mamba-fix.submit.csv | 0.46439   | 0.28557    |
+![alt text](https://github.com/hengck23/solution-leash-BELKA/blob/main/doc/Selection_164.png)  
 
 
 ## 7. Reference trained models and validation results
