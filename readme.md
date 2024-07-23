@@ -4,7 +4,7 @@
 https://www.kaggle.com/competitions/leash-BELKA
 
 For discussion, please refer to:  
-https://www.kaggle.com/competitions/leash-BELKA/discussion/456084
+[https://www.kaggle.com/competitions/leash-BELKA/discussion/456084](https://www.kaggle.com/competitions/leash-BELKA/discussion/521894)
 
 
 ## 1. Hardware  
