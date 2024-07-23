@@ -93,9 +93,9 @@ output file:
 ```
 
 ![alt text](https://github.com/hengck23/solution-leash-BELKA/blob/main/doc/Selection_164.png)  
+ <br /> <br />
 
-
-## 7. Reference trained models and validation results
+## 6. Reference trained models and validation results
 - Reference results can also be found in the share google drive at :  
   <google-drive>/leash-BELKA-solution/result  
   https://drive.google.com/drive/folders/1bEBGtTJrQlYc_MQRYceBp0Kb9zGYue9H?usp=drive_link  
