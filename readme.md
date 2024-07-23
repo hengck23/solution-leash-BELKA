@@ -26,8 +26,9 @@ https://www.kaggle.com/competitions/leash-BELKA/discussion/456084
     ├── result
     ├── data
     |   ├── processed
+    |   |     ├──all_buildingblock.csv
     |   ├── kaggle 
-    |       ├── leash-BELKA
+    |         ├── leash-BELKA
     |               ├── sample_submission.csv
     │               ├── train.parquet
     │               ├── test.parquet
@@ -50,6 +51,7 @@ https://www.kaggle.com/competitions/leash-BELKA/data
 ```
 python "/src/process-data-01/run_make_data.py"  
 ```
+  There are 98 millions molecules in the train data. Hence processing the data can take very long time.  
   Alternatively, you can download processed data from the share google drive at :  
   <google-drive>/leash-BELKA-solution/data/processed  
   https://drive.google.com/drive/folders/1bEBGtTJrQlYc_MQRYceBp0Kb9zGYue9H?usp=drive_link  

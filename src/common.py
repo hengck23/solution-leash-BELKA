@@ -84,7 +84,13 @@ def print_pytorch_env():
 
 '''
 
+'''
+#https://stackoverflow.com/questions/31684375/automatically-create-file-requirements-txt
+create requirements.txt
 
+pip install pipreqs
+pipreqs /path/to/project
+'''
 ######################################################3
 
 
