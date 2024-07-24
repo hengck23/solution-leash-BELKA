@@ -77,11 +77,18 @@ python "/src/mamba-03/run_train.py"
 output model:
 - /result/mamba-03/checkpoint/00255000.pth
 
-``` 
+```
+If you want to do local validation, you can run the scripts:
 
+```
+python "/src/cnn1d-nonshare-05-mean-layer5-bn/run_valid.py"
+python "/src/transformer-fa-03/run_valid.py"
+python "/src/mamba-03/run_valid.py"
+```  
+  
 ## 5. Submission csv 
 
-Please run the following script:
+Please run the following scripts:
 
 ```
 python "/src/cnn1d-nonshare-05-mean-layer5-bn/run_submit.py"
