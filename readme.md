@@ -1,6 +1,6 @@
-# Kaggle Competition Solution
+# Kaggle Competition Solution (5th)
 
-# NeurIPS 2024 - Predict New Medicines with BELKA (5-th)
+# NeurIPS 2024 - Predict New Medicines with BELKA
 https://www.kaggle.com/competitions/leash-BELKA
 
 For discussion, please refer to:  
